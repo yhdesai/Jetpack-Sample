@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void Behavior(View view) {
-        Intent intentName = new Intent(MainActivity.this, jBehavior.class);
+        Intent intentName = new Intent(MainActivity.this, jBehaviour.class);
         startActivity(intentName);
     }
 
